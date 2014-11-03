@@ -1,0 +1,15 @@
+#!/bin/sh
+#Run this script in Terminal.
+#1) Navigate to this directory in Terminal.
+#2) Run 'sh INSTALL' or './INSTALL'.
+echo "==============================
+Installing Gnomintu icon themes..."
+if [[ -n $(gtk-update-icon-cache) ]] ; then
+	sudo apt-get install gtk-update-icon-cache
+fi
+install -dm 755 /usr/share/icons/
+for theme in "Gnomintu" "Gnomintu-Archblue" "Gnomintu-Green" ; do
+	cp -drf --no-preserve='ownership' $theme /usr/share/icons/
+	gtk-update-icon-cache -ftq usr/share/icons/$theme
+done
+echo "Done!"
