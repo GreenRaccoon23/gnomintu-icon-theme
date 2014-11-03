@@ -2,9 +2,9 @@ Fusion of Mint-X, GNOME, Ubuntu-Mono, and Humanity icon themes. Close to Mint-X 
 
 Gnomintu theme: Mint-X folders (stock).
 
-Gnomintu-Green theme: Green Ubuntu-Mono folders (#40BF4A).
+Gnomintu-Green theme: Green Ubuntu-Mono folders (#40BF4A http://coloreminder.com/40bf4a).
 
-Gnomintu-Archblue theme: Blue Ubuntu-Mono folders (official Arch Linux blue: #1793D1)
+Gnomintu-Archblue theme: Blue Ubuntu-Mono folders (official Arch Linux blue: http://coloreminder.com/1793D1)
 
 If using Arch Linux, this theme is in the AUR. Install it by running:
 yaourt -Sa gnomintu-icon-theme-git
