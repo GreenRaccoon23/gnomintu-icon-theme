@@ -1,4 +1,5 @@
 Fusion of Mint-X, GNOME, Ubuntu-Mono, and Humanity icon themes. Close to Mint-X but incorporates the best GNOME, Ubuntu-Mono, and Humanity icons. Arch Linux logos included.
+
 Gnomintu theme: Mint-X folders (stock).
 Gnomintu-Green theme: Green Ubuntu-Mono folders (#40BF4A).
 Gnomintu-Archblue theme: Blue Ubuntu-Mono folders (official Arch Linux blue: #1793D1)
