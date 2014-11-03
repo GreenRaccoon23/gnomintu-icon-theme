@@ -1,4 +1,4 @@
-Fusion of Mint-X, Ubuntu-Mono, Humanity, and GNOME icon themes (mostly Mint-X and Ubuntu-Mono).
+Fusion of Mint-X, Ubuntu-Mono, Humanity, and GNOME icon themes (mostly Mint-X and Ubuntu-Mono).  
 Built off of Mint-X but incorporates the best Ubuntu-Mono and Humanity icons. (For example, the status icons are mostly Ubuntu-Mono, and I took out the square app icons that Mint-X uses.)
 
 **Gnomintu** theme: Mint-X folders (stock)  
