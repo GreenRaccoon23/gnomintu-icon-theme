@@ -1,8 +1,8 @@
 Fusion of Mint-X, Ubuntu-Mono, Humanity, and GNOME icon themes. Closest to Mint-X but incorporates the best Ubuntu-Mono and Humanity icons.
 
-**Gnomintu** theme: [Mint-X folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu/places/64/folder-home.png) (stock).  
-**Gnomintu-Green** theme: [Green Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Green/places/64/folder-home.png) ([#40BF4A](http://coloreminder.com/40bf4a)).  
-**Gnomintu-Archblue** theme: [Blue Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Archblue/places/64/folder-home.png) (official Arch Linux blue: [#1793D1](http://coloreminder.com/1793D1))  
+**Gnomintu** theme: Mint-X folders (stock) ![Mint-X folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu/places/64/folder-home.png)  
+**Gnomintu-Green** theme: Green Ubuntu-Mono folders ![Green Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Green/places/64/folder-home.png)  
+**Gnomintu-Archblue** theme: Blue Ubuntu-Mono folders (official Arch Linux blue)[Blue Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Archblue/places/64/folder-home.png)  
 
 If using **Arch Linux**, this theme is in the AUR. Install it by running:  
 yaourt -Sa gnomintu-icon-theme-git
