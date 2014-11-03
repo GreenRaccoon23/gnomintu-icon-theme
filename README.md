@@ -19,6 +19,5 @@ For other distributions, do this:
 This theme is made from sources that are open source for non-commercial use. Feel free to modify and distribute this package as long as you respect the sources' conditions. :smile:
 
 Btw, I added some extra 'folder-arch' icons (under 'Gnomintu-Green/places/ and 'Gnomintu-Archblue/places/').  
-Gnomintu-Green: ![arch-green](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Green/places/64/folder-arch.png)  
-Gnomintu-Archblue: ![arch-blue](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Archblue/places/64/folder-arch.png)  
+![arch-green](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Green/places/64/folder-arch.png)  ![arch-blue](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Archblue/places/64/folder-arch.png)  
 I use them as custom folder icons. Pretty sweet, aren't they? :heart_eyes:
