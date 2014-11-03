@@ -1,16 +1,18 @@
-Fusion of Mint-X, GNOME, Ubuntu-Mono, and Humanity icon themes. Close to Mint-X but incorporates the best GNOME, Ubuntu-Mono, and Humanity icons. Arch Linux logos included.
+Fusion of Mint-X, Ubuntu-Mono, Humanity, and GNOME icon themes. Closest to Mint-X but incorporates the best Ubuntu-Mono and Humanity icons.
 
 **Gnomintu** theme: Mint-X folders (stock).  
-**Gnomintu-Green** theme: Green Ubuntu-Mono folders ([#40BF4A](http://coloreminder.com/40bf4a)).  
-**Gnomintu-Archblue** theme: Blue Ubuntu-Mono folders (official Arch Linux blue: [#1793D1](http://coloreminder.com/1793D1))  
+**Gnomintu-Green** theme: [Green Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Green/places/64/folder-home.png) ([#40BF4A](http://coloreminder.com/40bf4a)).  
+**Gnomintu-Archblue** theme: [Blue Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Archblue/places/64/folder-home.png) (official Arch Linux blue: [#1793D1](http://coloreminder.com/1793D1))  
 
 If using **Arch Linux**, this theme is in the AUR. Install it by running:  
 yaourt -Sa gnomintu-icon-theme-git
 
 For other distributions, do this:  
 	1. **Clone** this repo by running:  
-	git clone https://github.com/GreenRaccoon23/gnomintu-icon-theme  
+		git clone https://github.com/GreenRaccoon23/gnomintu-icon-theme  
 	2. Run the **INSTALL** script.  
-	If you'd rather install the themes manually :scream:, copy the 'Gnomintu', 'Gnomintu-Green', and 'Gnomintu-Archblue' folders (NOT the 'gnomintu-icon-theme' folder) to either '**/usr/share/icons**' or '**~/.icons**'. You might want to run '**gtk-update-icon-cache**' too.  
+		If you'd rather install the themes manually :scream:, copy the 'Gnomintu', 'Gnomintu-Green', and 'Gnomintu-Archblue' folders (NOT the 'gnomintu-icon-theme' folder) to either '**/usr/share/icons**' or '**~/.icons**'. You might want to run '**gtk-update-icon-cache**' too.  
 
 This theme is made from sources that are open source for non-commercial use. Feel free to modify and distribute this package as long as you respect the sources' conditions. :smile:
+
+Btw, I added some extra 'folder-arch' icons under [Gnomintu-Green/places/](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Green/places/64/folder-arch.png) and [Gnomintu-Archblue/places/](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Archblue/places/64/folder-arch.png). I use them as custom folder icons. Pretty sweet, aren't they?
