@@ -8,7 +8,7 @@ if [[ -n $(gtk-update-icon-cache) ]] ; then
 	sudo apt-get install gtk-update-icon-cache
 fi
 install -dm 755 /usr/share/icons/
-for theme in "Gnomintu" "Gnomintu-Archblue" "Gnomintu-Green" ; do
+for theme in "Gnomintu" "Gnomintu-Mono-Archblue" "Gnomintu-Mono-Dark" "Gnomintu-Mono-Green" "Gnomintu-Mono-Red" ; do
 	cp -drf --no-preserve='ownership' $theme /usr/share/icons/
 	gtk-update-icon-cache -ftq usr/share/icons/$theme
 done
