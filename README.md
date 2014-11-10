@@ -10,7 +10,7 @@ Built off of Mint-X but incorporates the best Ubuntu-Mono and Humanity icons. (F
 **Gnomintu-Mono-Green** theme: Green Ubuntu-Mono folders  
 ![Red Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Red/places/64/folder-home.png)  
 **Gnomintu-Mono-Green** theme: Green Ubuntu-Mono folders  
-![Stock Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Dark/places/64/folder-home.svg)    
+![Stock Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Dark/places/64/folder-home.png)    
 
 If using **Arch Linux**, this theme is in the AUR. Install it by running:  
 yaourt -Sa gnomintu-icon-theme-git
