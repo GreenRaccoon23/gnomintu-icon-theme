@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Gnomintu
+Name=Gnomintu-test
 Inherits=ubuntu-mono-dark,gnome,hicolor,gnome-colors-wise
 Comment=Fusion of GNOME, Mint-X, Ubuntu-Mono, and Humanity icon themes. Close to Mint-X but incorporates the best GNOME, Ubuntu-Mono, and Humanity icons. Arch Linux logos included.
 Directories=actions/16,animations/16,apps/16,categories/16,mimetypes/16,status/16,stock/16,actions/22,animations/22,apps/22,categories/22,mimetypes/22,status/22,stock/22,actions/24,animations/24,apps/24,categories/24,mimetypes/24,status/24,stock/24,actions/32,apps/32,categories/32,mimetypes/32,status/32,stock/32,actions/48,apps/48,categories/48,mimetypes/48,status/48,stock/48,actions/scalable,apps/scalable,categories/scalable,mimetypes/scalable,status/scalable,stock/scalable,places/16,places/22,places/24,places/32,places/48,places/64,places/128,devices/16,devices/22,devices/24,devices/32,devices/48,devices/64,devices/128,emblems/16,emblems/22,emblems/24,emblems/32,emblems/48,emblems/scalable,pixmaps
