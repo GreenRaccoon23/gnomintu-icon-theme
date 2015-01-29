@@ -1,8 +1,8 @@
 Fusion of Mint-X, Ubuntu-Mono, Humanity, and GNOME icon themes (mostly Mint-X and Ubuntu-Mono).  
 Built off of Mint-X but incorporates the best Ubuntu-Mono and Humanity icons. (For example, the status icons are mostly Ubuntu-Mono, and I took out the square app icons that Mint-X uses.)
 
-**Gnomintu** theme: Mint-X folders (stock)  
-![Mint-X folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu/places/64/folder-home.png)  
+**Gnomintu-Mint** theme: Mint-X folders (stock)  
+![Mint-X folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mint/places/64/folder-home.png)  
 **Gnomintu-Mono-Green** theme: Green Ubuntu-Mono folders  
 ![Green Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Green/places/64/folder-home.png)  
 **Gnomintu-Mono-Archblue** theme: Blue Ubuntu-Mono folders (official Arch Linux blue)  

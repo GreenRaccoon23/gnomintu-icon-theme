@@ -1,6 +1,6 @@
 [Icon Theme]
 Name=Gnomintu-Mono-Green
-Inherits=Gnomintu
+Inherits=Gnomintu-Mint
 Comment=Fusion of GNOME, Mint-X, Ubuntu-Mono, and Humanity icon themes (green ubuntu folders). Close to Mint-X but incorporates the best GNOME, Ubuntu-Mono, and Humanity icons. Arch Linux logos included.
 Directories=places/16,places/22,places/24,places/32,places/48,places/64,places/128,devices/16,devices/22,devices/24,devices/32,devices/48,devices/64
 
