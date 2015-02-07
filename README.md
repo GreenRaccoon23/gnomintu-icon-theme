@@ -3,14 +3,14 @@ Built off of Mint-X but incorporates the best Ubuntu-Mono and Humanity icons. (F
 
 **Gnomintu-Mint** theme: Mint-X folders (stock)  
 ![Mint-X folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mint/places/64/folder-home.png)  
-**Gnomintu-Mono-Green** theme: Green Ubuntu-Mono folders  
-![Green Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Green/places/64/folder-home.png)  
+**Gnomintu-Mono-Dark** theme: Stock Ubuntu-Mono folders  
+![Stock Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Dark/places/64/folder-home.png)    
 **Gnomintu-Mono-Archblue** theme: Blue Ubuntu-Mono folders (official Arch Linux blue)  
 ![Blue Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Archblue/places/64/folder-home.png)
 **Gnomintu-Mono-Green** theme: Green Ubuntu-Mono folders  
 ![Red Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Red/places/64/folder-home.png)  
 **Gnomintu-Mono-Green** theme: Green Ubuntu-Mono folders  
-![Stock Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Dark/places/64/folder-home.png)    
+![Green Ubuntu-Mono folders](https://github.com/GreenRaccoon23/gnomintu-icon-theme/blob/master/Gnomintu-Mono-Green/places/64/folder-home.png)  
 
 If using **Arch Linux**, this theme is in the AUR. Install it by running:  
 yaourt -Sa gnomintu-icon-theme-git
